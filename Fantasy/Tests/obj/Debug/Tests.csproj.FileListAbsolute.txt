@@ -1,0 +1,7 @@
+C:\Private\Development\Fantasy\Fantasy\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Private\Development\Fantasy\Fantasy\Tests\bin\Debug\Tests.dll
+C:\Private\Development\Fantasy\Fantasy\Tests\bin\Debug\Tests.pdb
+C:\Private\Development\Fantasy\Fantasy\Tests\bin\Debug\Fantasy.dll
+C:\Private\Development\Fantasy\Fantasy\Tests\bin\Debug\Fantasy.pdb
+C:\Private\Development\Fantasy\Fantasy\Tests\obj\Debug\Tests.dll
+C:\Private\Development\Fantasy\Fantasy\Tests\obj\Debug\Tests.pdb

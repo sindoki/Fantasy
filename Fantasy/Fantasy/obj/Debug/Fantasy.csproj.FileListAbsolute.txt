@@ -1,0 +1,5 @@
+C:\Private\Development\Fantasy\Fantasy\Fantasy\bin\Debug\Fantasy.dll
+C:\Private\Development\Fantasy\Fantasy\Fantasy\bin\Debug\Fantasy.pdb
+C:\Private\Development\Fantasy\Fantasy\Fantasy\obj\Debug\Fantasy.dll
+C:\Private\Development\Fantasy\Fantasy\Fantasy\obj\Debug\Fantasy.pdb
+C:\Private\Development\Fantasy\Fantasy\Fantasy\obj\Debug\Fantasy.csprojResolveAssemblyReference.cache
